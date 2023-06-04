@@ -4,7 +4,7 @@
 
 Upstream: <https://github.com/Kong/insomnia>
 
-Release: <https://github.com/Kong/insomnia/releases/tag/lib%403.16.0
+Release: https://github.com/Kong/insomnia/releases/tag/lib%403.16.0
 
 ---
 
