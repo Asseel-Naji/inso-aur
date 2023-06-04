@@ -1,8 +1,10 @@
 # inso
 
+![AUR version](https://img.shields.io/aur/version/inso-bin)
+
 Upstream: <https://github.com/Kong/insomnia>
 
-![AUR version](https://img.shields.io/aur/version/inso-bin): <https://github.com/Kong/insomnia/releases/tag/lib%403.16.0>>
+Release: <https://github.com/Kong/insomnia/releases/tag/lib%403.16.0>>
 
 ---
 
