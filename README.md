@@ -1,6 +1,6 @@
 # inso
 
-![AUR version](https://img.shields.io/aur/version/inso-bin)
+![AUR version](https://img.shields.io/aur/version/inso-bin) ![AUR last modified](https://img.shields.io/aur/last-modified/inso-bin)
 
 Upstream: <https://github.com/Kong/insomnia>
 
